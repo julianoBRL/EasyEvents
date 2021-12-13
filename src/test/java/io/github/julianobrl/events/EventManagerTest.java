@@ -9,6 +9,8 @@ import javax.management.ListenerNotFoundException;
 
 import org.junit.jupiter.api.Test;
 
+import io.github.julianobrl.easyevents.EventManager;
+import io.github.julianobrl.easyevents.Listener;
 import io.github.julianobrl.events.exeptions.EventNameExists;
 import io.github.julianobrl.events.exeptions.EventNotExists;
 

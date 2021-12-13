@@ -1,4 +1,4 @@
-package io.github.julianobrl.events;
+package io.github.julianobrl.easyevents;
 
 import java.io.InvalidClassException;
 import java.util.HashMap;
